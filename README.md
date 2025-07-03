@@ -8,6 +8,66 @@
 
 ## 🚀 Sobre mim
 
+```java
+import java.util.HashMap;
+import java.util.Map;
+
+public class Arthur {
+    private int idade;
+    private String localizacao;
+    private String foco;
+    private int anosEstudando;
+    private String filosofia;
+
+    public Arthur() {
+        this.idade = 17;
+        this.localizacao = "São José, SC 🌴";
+        this.foco = "Desenvolvimento Backend";
+        this.anosEstudando = 2;
+        this.filosofia = "Se não sei, aprendo - mesmo que custe noites de sono! ☕";
+    }
+
+    public Map<String, String> getContato() {
+        Map<String, String> contato = new HashMap<>();
+        contato.put("email", "arthurdasilvahames@gmail.com");
+        contato.put("telefone", "(48) 99929-2165");
+        contato.put("instagram", "@arthurhamess");
+        contato.put("github", "AHamesrp");
+        return contato;
+    }
+
+    // Opcional: Adicionar getters para os atributos, se necessário
+    public int getIdade() {
+        return idade;
+    }
+
+    public String getLocalizacao() {
+        return localizacao;
+    }
+
+    public String getFoco() {
+        return foco;
+    }
+
+    public int getAnosEstudando() {
+        return anosEstudando;
+    }
+
+    public String getFilosofia() {
+        return filosofia;
+    }
+
+    public static void main(String[] args) {
+        Arthur arthur = new Arthur();
+        System.out.println("Idade: " + arthur.getIdade());
+        System.out.println("Localização: " + arthur.getLocalizacao());
+        System.out.println("Foco: " + arthur.getFoco());
+        System.out.println("Anos estudando: " + arthur.getAnosEstudando());
+        System.out.println("Filosofia: " + arthur.getFilosofia());
+        System.out.println("Contato: " + arthur.getContato());
+    }
+}
+```
 ```python
 class Arthur:
     def __init__(self):
