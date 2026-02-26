@@ -69,16 +69,6 @@
 - **🇧🇷 Portuguese:** Native
 - **🇺🇸 English:** C1-C2
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHamesrp&show_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHamesrp&layout=compact&theme=tokyonight)
-  
-</div>
-
 ## 🎯 2026 Goals
 
 - Secure an internship opportunity in backend development
@@ -102,7 +92,5 @@
 <div align="center">
   
   *"Programming isn't about what you know; it's about what you can figure out."*
-  
-  ![Visitor Count](https://profile-counter.glitch.me/AHamesrp/count.svg)
-  
+
 </div>
