@@ -1,26 +1,13 @@
-# 👋 Olá, eu sou Arthur Hames!
+# 👋 Hi, I'm Arthur Hames!
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+Jr;2+anos+de+estudos;Sempre+em+busca+de+novos+desafios!)](https://git.io/typing-svg)
-  
-</div>
-
-## 🚀 Sobre mim
+## 🚀 About Me
 
 ```json
 {
-  "idade": 17,
-  "localizacao": "São José, SC 🌴",
-  "foco": "Desenvolvimento Backend",
-  "anos_estudando": 2,
-  "filosofia": "Se não sei, aprendo - mesmo que custe noites de sono! ☕",
-  "contato": {
-    "email": "arthurdasilvahames@gmail.com",
-    "telefone": "(48) 99929-2165",
-    "instagram": "@arthurhamess",
-    "github": "AHamesrp"
-  }
+  "age": 18,
+  "location": "Santa Catarina, Brazil",
+  "focus": "Backend Development",
+  "philosophy": "If I don't know it, I learn it",
 }
 ```
 
@@ -40,62 +27,47 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-### 🏢 **Floripa Square Mídia Dooh** | *Estagiário*
-**📅 Setembro 2024 - Fevereiro 2025**
+### 🏢 **Floripa Square Mídia Dooh** | *Intern*
+**📅 September 2024 - February 2025**
 
-- 🌡️ Desenvolvimento de sistema IoT para monitoramento de temperatura
-- 📱 Integração com WhatsApp para alertas automáticos
-- 🔧 Trabalho com microcontroladores ESP8266 e sensores
-- 📋 Criação de documentação técnica e sistemas automatizados
-- ⚡ Desenvolvimento em eletrônica e circuitos internos
+- Development of IoT system for temperature monitoring
+- WhatsApp integration for automated alerts
+- Work with ESP8266 microcontrollers and sensors
+- Creation of technical documentation and automated systems
+- Development in electronics and internal circuits
 
-**🔗 Projeto Destaque:** [Sistema de Temperatura ESP8266](https://github.com/AHamesrp/temperatura_esp8266.git)
+**Featured Project:** [ESP8266 Temperature System](https://github.com/AHamesrp/temperatura_esp8266.git)
 
-## 🎓 Formação
+## 🎓 Education
 
-**📚 Análise e Desenvolvimento de Sistemas**  
-*SENAI | Fevereiro 2023 - Dezembro 2025*
+**📚 Systems Analysis and Development**  
+*SENAI | February 2023 - December 2025*
 
-### Principais disciplinas:
-- Programação (Python, C++, Java, JavaScript)
-- Banco de Dados (PostgreSQL, MySQL)
-- Desenvolvimento Web (HTML, CSS, Node.js)
-- Versionamento (Git/GitHub)
-- IoT e Eletrônica
-- Modelagem e Documentação de Sistemas
+### Main Courses:
+- Programming (C++, JavaScript)
+- Databases (PostgreSQL, MySQL)
+- Web Development (HTML, CSS, Node.js)
+- Version Control (Git/GitHub)
+- IoT and Electronics
+- Systems Modeling and Documentation
+---
+**📚 Software Engineer**  
+*UNIASSELVI | February 2026 - December 2030*
 
-## 🌟 Especialidades
+### Main Courses:
+- Computer Architecture
+- Logic and Programming Techniques
+- Information Technology Security
+- Databases (SQL/NoQL)
+- Data Structures
+- Object-Oriented Programming (OOP)
+- Artificial Intelligence (AI)
 
-```python
-{
-  "Python": [
-    "Automações",
-    "Agent LangChain",
-    "Data Science",
-    "Machine Learning"
-  ],
-  "C++": [
-    "Automações com IoT",
-    "Hardware Integration"
-  ],
-  "PostgreSQL": [
-    "Sistema de tabelas",
-    "Cadastros e consultas"
-  ],
-  "Git": [
-    "Staging, commits",
-    "Push/Pull requests",
-    "Branches",
-    "Repository management"
-  ]
-}
-```
-
-## 🌍 Idiomas
-- **🇧🇷 Português:** Nativo
-- **🇺🇸 Inglês:** Intermediário (B2)
+## 🌍 Languages
+- **🇧🇷 Portuguese:** Native
+- **🇺🇸 English:** C1-C2
 
 ## 📊 GitHub Stats
 
@@ -107,28 +79,29 @@
   
 </div>
 
-## 🎯 Objetivos 2025
+## 🎯 2026 Goals
 
-- 🚀 Conseguir uma oportunidade de estágio em desenvolvimento backend
-- 📈 Aprofundar conhecimentos em arquitetura de sistemas
-- 🌐 Contribuir com projetos open source
-- 🎓 Finalizar o curso técnico com excelência
+- Secure an internship opportunity in backend development
+- Deepen knowledge in systems architecture
+- Contribute to open source projects
+- Complete SE course with excellence
 
-## 📫 Entre em contato!
+## 📫 Get in Touch!
 
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurdasilvahames@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthurhamess)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHamesrp)
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurhamess/)
+
 </div>
 
 ---
 
 <div align="center">
   
-  *"A programação não é sobre o que você sabe; é sobre o que você pode descobrir."*
+  *"Programming isn't about what you know; it's about what you can figure out."*
   
   ![Visitor Count](https://profile-counter.glitch.me/AHamesrp/count.svg)
   
