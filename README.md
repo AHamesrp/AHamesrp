@@ -28,19 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 💼 Professional Experience
-
-### 🏢 **Floripa Square Mídia Dooh** | *Intern*
-**📅 September 2024 - February 2025**
-
-- Development of IoT system for temperature monitoring
-- WhatsApp integration for automated alerts
-- Work with ESP8266 microcontrollers and sensors
-- Creation of technical documentation and automated systems
-- Development in electronics and internal circuits
-
-**Featured Project:** [ESP8266 Temperature System](https://github.com/AHamesrp/temperatura_esp8266.git)
-
 ## 🎓 Education
 
 **📚 Systems Analysis and Development**  
