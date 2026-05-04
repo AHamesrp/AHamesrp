@@ -6,7 +6,7 @@
 {
   "age": 18,
   "location": "Santa Catarina, Brazil",
-  "focus": "Backend Development",
+  "focus": "Backend, Data and IA",
   "philosophy": "If I don't know it, I learn it",
 }
 ```
