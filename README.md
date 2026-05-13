@@ -19,7 +19,7 @@
 *SENAI | February 2023 - December 2025*
 
 ### Main Courses:
-- Programming (C++, JavaScript)
+- Programming (C++, JavaScript, React/Native)
 - Databases (PostgreSQL, MySQL)
 - Web Development (HTML, CSS, Node.js)
 - Version Control (Git/GitHub)
@@ -37,6 +37,13 @@
 - Data Structures
 - Object-Oriented Programming (OOP)
 - Artificial Intelligence (AI)
+
+**📚 Web Fullstack Development**  
+*SOLID TECH MENTORIA | March 2026 - December 2026*
+
+### Main Courses:
+- Language/Framework/Library (Next.js, Nest.js, Typescript, Javascript, HTML, Tailwind, CSS, Prima)
+- Softwares/IAs (V0, Cursor, ChatGPT, Copilot, Vercel, Github, Git, Node.js, VsCode, XAMPP, MySQL, Railway, BeekeperStudio)
 
 ## 🌍 Languages
 - **🇧🇷 Portuguese:** Native
