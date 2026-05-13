@@ -37,7 +37,7 @@
 - Data Structures
 - Object-Oriented Programming (OOP)
 - Artificial Intelligence (AI)
-
+---
 **📚 Web Fullstack Development**  
 *SOLID TECH MENTORIA | March 2026 - December 2026*
 
@@ -48,13 +48,6 @@
 ## 🌍 Languages
 - **🇧🇷 Portuguese:** Native
 - **🇺🇸 English:** C1-C2
-
-## 🎯 2026 Goals
-
-- Secure an internship opportunity in backend development
-- Deepen knowledge in systems architecture
-- Contribute to open source projects
-- Complete SE course with excellence
 
 ## 📫 Get in Touch!
 
