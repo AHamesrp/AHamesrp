@@ -1,16 +1,5 @@
 # 👋 Hi, I'm Arthur Hames!
 
-## 🚀 About Me
-
-```json
-{
-  "age": 18,
-  "location": "Santa Catarina, Brazil",
-  "focus": "Backend, Data and IA",
-  "philosophy": "If I don't know it, I learn it",
-}
-```
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
